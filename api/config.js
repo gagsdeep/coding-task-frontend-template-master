@@ -1,0 +1,1 @@
+module.exports.API_URL = 'https://api.datamuse.com/words?max=10&rel_trg=';
