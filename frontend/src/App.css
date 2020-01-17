@@ -1,0 +1,38 @@
+/*==================================
+                Column 
+====================================*/
+
+.column {
+  display: inline-block;
+  width: 45%;
+  padding-left: 10px;
+  overflow-wrap: break-word;
+}
+.column-first {
+  width: 45%;
+  padding-left: 10px;
+  float: left;
+  overflow-wrap: break-word;
+}
+.column-category {
+  width: 10%;
+  padding-left:10px 
+}
+/*==================================
+                Row
+====================================*/
+
+.row {
+  width: 100%;
+  position: relative;
+  padding: 10px 0;
+}
+
+/*==================================
+                Separator
+====================================*/
+
+
+.right-divider {
+  border-left: 1px solid red;
+}
